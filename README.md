@@ -1,9 +1,11 @@
-# Getting Started with Create React App
+# Welcome to Invisible Taquitos!
+This is an imaginary restaurant created as an example of the basic use of state machines to handle our UI in React
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `yarn start`
